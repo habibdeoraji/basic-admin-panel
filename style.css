@@ -92,6 +92,8 @@ h1 {
   margin-bottom: 5px;
 }
 
+
+
 textarea {
   white-space: normal;
   width: 100%;
@@ -138,6 +140,13 @@ img {
 #table-data {
   max-height: 270px;
   overflow-y: overlay;
+}
+
+
+/* Custom Class */
+
+.display-class{
+  display:none
 }
 
 @-moz-document url-prefix() {
